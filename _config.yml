@@ -69,7 +69,7 @@ author:
 social-network-links:
   rss: true
   email: "ms.mai.t.tran@gmail.com"
-  
+  //facebook:
   github: msmaitran
   twitter: ms_maitran
 #  reddit: yourname
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "msmaitran.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "msmaitran"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
