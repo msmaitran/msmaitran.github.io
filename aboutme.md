@@ -4,7 +4,9 @@ title: About me
 subtitle: 
 ---
 
-My name is Mai Tran. I am: 
+My name is Mai Tran. 
+
+I am: 
 
 - Currently a student at Lambda School studying Android Development.
 
