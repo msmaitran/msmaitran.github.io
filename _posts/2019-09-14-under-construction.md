@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: Website Under Construction
-bigimg: /img/underconstruction.jpeg 
+bigimg: /img/underconstruction.jpg 
 comments: true 
 ---
 
