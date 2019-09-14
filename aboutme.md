@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Mai Tran. I am an Android Dev student at Lambda School.
+My name is Mai Tran. I am: 
 
-- 
+- Currently a student at Lambda School studying Android Development.
 - 
 
 ### my history
 
-I previously worked in the Accounting field as an Accounting Manager. 
+I previously was an accounting manager for a software company.
