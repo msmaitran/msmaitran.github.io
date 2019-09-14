@@ -10,4 +10,4 @@ My name is Mai Tran. I am:
 
 ### my history
 
-I previously was an accounting manager for a software company.
+Before I decided to become an Android Developer, I was in the Accounting field.
