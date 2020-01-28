@@ -1,14 +1,9 @@
 ---
 layout: page
-title: About me
+title: About
 subtitle: 
 ---
 
-My name is Mai Tran. 
+# Mai Tran
 
-I am: 
-- Currently a student at Lambda School studying Android Development.
-
-### my history
-
-Before I decided to become an Android Developer, I was in the Accounting field.
+I am an Android Developer who is skilled in Kotlin and Java. I am a great team player and would be an asset to any team.
