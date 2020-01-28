@@ -21,6 +21,8 @@ description: Android Developer in training
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Skills: "skills"
+  Portfolio: "portfolio"
   #Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
