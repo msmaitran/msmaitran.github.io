@@ -6,4 +6,4 @@ subtitle:
 
 # Mai Tran
 
-An Android Developer who is skilled in Kotlin and Java. A great team player and would be an asset to any team.
+Android Developer with a specialty in Kotlin. Previous experience as Accounting Manager demonstrates detail-oriented, effective communication and management skills. 
