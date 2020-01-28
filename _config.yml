@@ -20,7 +20,7 @@ description: Android Developer in training
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About: "aboutme"
   Skills: "skills"
   Portfolio: "portfolio"
   #Resources:
