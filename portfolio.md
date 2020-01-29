@@ -6,7 +6,7 @@ subtitle:
 
 ### [Foodie App(Android)](https://github.com/build-week-foodie-fun/Android)
 
-<img src="https://github.com/build-week-foodie-fun/Android/blob/master/applauncher.png" alt="Login" width="200px"> <img src="https://github.com/build-week-foodie-fun/Android/blob/master/updatedregistration.png" alt="Registration" width="200px"> <img src="https://github.com/build-week-foodie-fun/Android/blob/master/home.png" alt="Homepage" width="200px"> <img src="https://github.com/build-week-foodie-fun/Android/blob/master/updatedprofile.png" alt="Profile" width="200px"> <img src="https://github.com/build-week-foodie-fun/Android/blob/master/updatednewfoodentry.png" alt="Create new food entry" width="200px"> <img src="https://github.com/build-week-foodie-fun/Android/blob/master/calendar.png" alt="Calendar" width="200px"> <img src="https://github.com/build-week-foodie-fun/Android/blob/master/updatedhome.png" alt="Homepage" width="200px"> <img src="https://github.com/build-week-foodie-fun/Android/blob/master/details.png" alt="Details" width="200px">
+<img src="/img/foodie/applauncher.png" alt="Login" width="200px"> <img src="/img/foodie/updatedregistration.png" alt="Registration" width="200px"> <img src="/img/foodie/home.png" alt="Homepage" width="200px"> <img src="/img/foodie/updatedprofile.png" alt="Profile" width="200px"> <img src="/img/foodie/updatednewfoodentry.png" alt="Create new food entry" width="200px"> <img src="/img/foodie/calendar.png" alt="Calendar" width="200px"> <img src="/img/foodie/updatedhome.png" alt="Homepage" width="200px"> <img src="/img/foodie/details.png" alt="Details" width="200px">
 
 ### [RVbnb(Android)](https://github.com/RVbnb/rvbnb_android)
 
