@@ -14,4 +14,6 @@ subtitle:
 
 ### [Water My Plants(Android)](https://github.com/Water-MyPlants/ANDROID)
 
+<img src="/img/water_my_plants/login.png" alt="Login" width="160px"> <img src="/img/water_my_plants/register.png" alt="Registration" width="160px"> <img src="/img/water_my_plants/plantlist.png" alt="Homepage" width="160px"> <img src="/img/water_my_plants/addplant.png" alt="Add Plant" width="160px"> <img src="/img/water_my_plants/notification.png" alt="Notification" width="160px"> <img src="/img/water_my_plants/updateplant.png" alt="Update Plant Details" width="160px"> <img src="/img/water_my_plants/optionsmenu.png" alt="Options Menu" width="160px"> <img src="/img/water_my_plants/updateprofile.png" alt="Update Profile" width="160px"> 
+
 ### [One Line A Day(Backend)](https://github.com/One-Line-A-Day-11-19/Back-end)
