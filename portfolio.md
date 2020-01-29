@@ -6,7 +6,7 @@ subtitle:
 
 ### [Foodie App(Android)](https://github.com/build-week-foodie-fun/Android)
 
-<img src="/img/foodie/applauncher.png" alt="Login" width="184px"> <img src="/img/foodie/updatedregistration.png" alt="Registration" width="184px"> <img src="/img/foodie/home.png" alt="Homepage" width="184px"> <img src="/img/foodie/updatedprofile.png" alt="Profile" width="184px"> <img src="/img/foodie/updatednewfoodentry.png" alt="Create new food entry" width="184px"> <img src="/img/foodie/calendar.png" alt="Calendar" width="184px"> <img src="/img/foodie/updatedhome.png" alt="Homepage" width="184px"> <img src="/img/foodie/details.png" alt="Details" width="184px">
+<img src="/img/foodie/applauncher.png" alt="Login" width="160px"> <img src="/img/foodie/updatedregistration.png" alt="Registration" width="160px"> <img src="/img/foodie/home.png" alt="Homepage" width="160px"> <img src="/img/foodie/updatedprofile.png" alt="Profile" width="160px"> <img src="/img/foodie/updatednewfoodentry.png" alt="Create new food entry" width="160px"> <img src="/img/foodie/calendar.png" alt="Calendar" width="160px"> <img src="/img/foodie/updatedhome.png" alt="Homepage" width="160px"> <img src="/img/foodie/details.png" alt="Details" width="160px">
 
 ### [RVbnb(Android)](https://github.com/RVbnb/rvbnb_android)
 
