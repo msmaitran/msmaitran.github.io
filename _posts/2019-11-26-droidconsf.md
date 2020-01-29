@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: Droidcon SF 2019
-bigimg: /img/posts/201911/droidconsf1.jpg
+bigimg: /img/posts/201911/droidconsf.png
 comments: true 
 ---
 
