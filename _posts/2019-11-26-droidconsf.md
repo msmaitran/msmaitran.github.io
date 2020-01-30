@@ -7,6 +7,6 @@ comments: true
 
 Volunteered and attended my first #tech conference! Great experience. 
 
-<img src="/img/posts/201911/droidconsf.png" alt="Droidcon SF" width="792px"> <img src="/img/posts/201911/droidconsf1.jpg" alt="Volunteering" width="396px"><img src="/img/posts/201911/droidconsf2.jpg" alt="Attending Droidcon SF with my sister" width="396px"> 
+<img src="/img/posts/201911/droidconsf.png" alt="Droidcon SF" width="760px"> <img src="/img/posts/201911/droidconsf1.jpg" alt="Volunteering" width="380px"><img src="/img/posts/201911/droidconsf2.jpg" alt="Attending Droidcon SF with my sister" width="380px"> 
 
 #dcsf19 #womenwhocode #wwcodemobile #womenintech #womeninstem #androiddev #devcommunity
