@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: Droidcon SF 2019
-bigimg: /img/gray_background.png
+bigimg: 
 comments: true 
 ---
 
