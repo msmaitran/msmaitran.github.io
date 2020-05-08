@@ -24,6 +24,8 @@ This amazing diary allows you to add, edit and delete daily entries freely. Crea
 
 Tech Stack: OAuth2, Spring Boot, Swagger
 
+-----
+
 ### [Water My Plants(Android)](https://github.com/Water-MyPlants/ANDROID)
 
 Are you so busy or forgetful that you do not remember to water your plants? Create an account through Water My Plants, so that you could add your plant and set up a reminder of when to water it.
@@ -33,6 +35,8 @@ Water My Plants is a great app to help prevent your plants from dying from lack 
 Tech Stack: Conductor, MVVM Architecture, Retrofit2, Room, RxJava2
 
 <img src="/img/water_my_plants/login.png" alt="Login" width="160px"> <img src="/img/water_my_plants/register.png" alt="Registration" width="160px"> <img src="/img/water_my_plants/plantlist.png" alt="Homepage" width="160px"> <img src="/img/water_my_plants/addplant.png" alt="Add Plant" width="160px"> <img src="/img/water_my_plants/notification.png" alt="Notification" width="160px"> <img src="/img/water_my_plants/updateplant.png" alt="Update Plant Details" width="160px"> <img src="/img/water_my_plants/optionsmenu.png" alt="Options Menu" width="160px"> <img src="/img/water_my_plants/updateprofile.png" alt="Update Profile" width="160px"> 
+
+-----
 
 ### [RVbnb(Android)](https://github.com/RVbnb/rvbnb_android)
 
