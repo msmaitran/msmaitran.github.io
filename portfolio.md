@@ -12,7 +12,7 @@ Tech Stack: Auth0, Dagger2, Kotlin Coroutines, MVVM Architecture, Retrofit2
 
 [Google Play](https://play.google.com/store/apps/details?id=com.lambdaschool.hackathon_portal)
 
-<img src="/img/screenshots.png" alt="Screenshots" width="880px">
+<img src="/img/screenshots.png" alt="Screenshots" width="840px">
 
 ### [One Line A Day(Backend)](https://github.com/One-Line-A-Day-11-19/Back-end)
 
