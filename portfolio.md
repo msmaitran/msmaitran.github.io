@@ -41,13 +41,3 @@ RVbnb is a great app that connects landowners and RV owners together.
 Tech Stack: MVVM Architecture, Retrofit2, Room
 
 <img src="/img/rvbnb/login.png" alt="Login" width="160px"> <img src="/img/rvbnb/registration.png" alt="Registration" width="160px"> <img src="/img/rvbnb/landowner_list.png" alt="Landowner Homepage" width="160px"> <img src="/img/rvbnb/landowner_add_listing.png" alt="Add New Listing" width="160px"> <img src="/img/rvbnb/landowner_details.png" alt="Land Details" width="160px"> <img src="/img/rvbnb/rvowner_list.png" alt="RV Owner Homepage" width="160px"> <img src="/img/rvbnb/rvowner_reservation.png" alt="Reservation" width="160px"> <img src="/img/rvbnb/rvowner_reservation_details.png" alt="Reservation Details" width="160px"> 
-
-### [Foodie App(Android)](https://github.com/build-week-foodie-fun/Android)
-
-Foodie App was created by a three person Android team within four days.
-
-Ever hate remembering what you have and haven't ordered at a restaurant and what you liked and didn't like? Well Foodie App can help with that!
-
-Foodie App allows users to document information about the food they have eaten. Users are able to create new food entries with the following information: such as the name of the restaurant, the restaurant type, what they ordered, the date they ate there, the price, how they rate it, attach an image and make any other comments. Those created entries can then be accessed to update with either new information or deleted from the list.
-
-<img src="/img/foodie/applauncher.png" alt="Login" width="160px"> <img src="/img/foodie/updatedregistration.png" alt="Registration" width="160px"> <img src="/img/foodie/home.png" alt="Homepage" width="160px"> <img src="/img/foodie/updatedprofile.png" alt="Profile" width="160px"> <img src="/img/foodie/updatednewfoodentry.png" alt="Create New Food Entry" width="160px"> <img src="/img/foodie/calendar.png" alt="Calendar" width="160px"> <img src="/img/foodie/updatedhome.png" alt="Homepage" width="160px"> <img src="/img/foodie/details.png" alt="Details" width="160px">
