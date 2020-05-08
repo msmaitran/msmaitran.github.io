@@ -4,13 +4,8 @@ title: Skills
 subtitle: 
 ---
 
-### Android SDK
-### Kotlin
-### Java
-### Spring Framework
-### Android Studio
-### IntelliJ IDEA
-### PostgreSQL
-### XML
-### Git
-### Python
+
+
+- Android: Android Studio, Kotlin, Java, Coroutines, Gradle, MvvM Architecture, NavComponent, Retrofit, Room, RxJava
+- Back End: PostgreSQL, REST, Spring Boot, SQL
+- Other: Git, GitHub, Python
